@@ -14,7 +14,6 @@ do
         OUTPUT+="$TEMP"/
     fi
 done
-echo "$OUTPUT"
 OUTPUT="${OUTPUT/\/~\///}"
 OUTPUT="${OUTPUT/\/~/}"
 echo "$OUTPUT"
