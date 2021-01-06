@@ -1,2 +1,12 @@
 # my-vim-and-tmux-scripts-and-dotfiles
-# nvim-tmux-my-dotfiles-and-scripts
+
+memo
+```
+mv tmux.conf $HOME/.tmux.conf
+mv tmux $HOME/.tmux
+mv nvim $HOME/.config/nvim
+
+chmod 755 $HOME/.tmux/scripts/*.sh
+chmod 755 $HOME/.tmux/scripts/gitmux
+chmod 755 $HOME/.tmux/plugins/tmux-spotify/scripts/status.sh
+```
