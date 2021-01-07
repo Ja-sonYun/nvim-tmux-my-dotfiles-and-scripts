@@ -24,7 +24,7 @@ else
 fi
 
 if [ $NOTVIM -eq 1 ] && [ $NOTBON -eq 1 ]; then
-    echo "no info"
+    echo " no info"
 else
     echo $OUTPUT
 fi
