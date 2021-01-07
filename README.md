@@ -10,3 +10,7 @@ chmod 755 $HOME/.tmux/scripts/*.sh
 chmod 755 $HOME/.tmux/scripts/gitmux
 chmod 755 $HOME/.tmux/plugins/tmux-spotify/scripts/status.sh
 ```
+update
+```
+sh ./update.sh `pwd` [option]nvim
+```
