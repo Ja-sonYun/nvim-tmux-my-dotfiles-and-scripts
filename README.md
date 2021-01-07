@@ -14,3 +14,7 @@ update
 ```
 sh ./update.sh `pwd` [option]nvim
 ```
+set
+```
+sh ./set.sh [option]nvim
+```
