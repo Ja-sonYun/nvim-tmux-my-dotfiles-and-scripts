@@ -1,5 +1,7 @@
 # my-vim-and-tmux-scripts-and-dotfiles
 
+this is just for backup my setup.
+
 memo
 ```
 mv tmux.conf $HOME/.tmux.conf
