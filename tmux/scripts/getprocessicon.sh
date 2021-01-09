@@ -39,7 +39,7 @@ elif [[ "$1" == *"ruby"* ]]; then
     else
         echo ""
     fi
-elif [[ "$1" == *"Python"* ]]; then
+elif [[ "$1" == *"Python"* ]] || [[ "$1" == *"python"* ]]; then
     if [ "$2" = "cur" ]; then
         echo ""
     else
