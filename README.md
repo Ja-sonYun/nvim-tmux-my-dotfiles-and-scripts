@@ -1,6 +1,5 @@
-# my-vim-and-tmux-scripts-and-dotfiles
+# my tmux/vim dotfiles
 
-**this is just for backup my setup.**
 ![demo](https://github.com/Ja-sonYun/nvim-tmux-my-dotfiles-and-scripts/blob/main/img/img2.gif?raw=true)
 
 update
